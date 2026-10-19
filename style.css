@@ -1,0 +1,17 @@
+.col-md-12 a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+}
+.col-md-12 {
+    border: none;
+    padding: 5px;
+}
+.row .bg-info {
+    align-items: center;
+}
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
